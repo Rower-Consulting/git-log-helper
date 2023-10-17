@@ -28,7 +28,7 @@ The actual goal was to have a visual representation of who had contributed in wh
 
 ![Improvised Gantt Chanrt](img/git-log-Gantt-transform.png)
 
-This chart uses a well-known hack of Excel's stacked bar chart, where we added color distinction for each user "in the mix". So if we had a "User Name" on one line and then another "user.name@company.com" we did our best to line them up next to each other so it's a bit easier on the eye. 
+This chart uses a well-known hack of Excel's stacked bar chart, where we added color distinction for each user "in the mix". So if we had a "User Name" on one line and then another 'user.name@company.com' we did our best to line them up next to each other so it's a bit easier on the eye. 
 
 ## A springboard for more 
 
